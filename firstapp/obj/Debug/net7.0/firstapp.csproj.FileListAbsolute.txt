@@ -1,0 +1,15 @@
+D:\DoTNeT\dotnet\firstapp\bin\Debug\net7.0\firstapp.exe
+D:\DoTNeT\dotnet\firstapp\bin\Debug\net7.0\firstapp.deps.json
+D:\DoTNeT\dotnet\firstapp\bin\Debug\net7.0\firstapp.runtimeconfig.json
+D:\DoTNeT\dotnet\firstapp\bin\Debug\net7.0\firstapp.dll
+D:\DoTNeT\dotnet\firstapp\bin\Debug\net7.0\firstapp.pdb
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\firstapp.csproj.AssemblyReference.cache
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\firstapp.AssemblyInfoInputs.cache
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\firstapp.AssemblyInfo.cs
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\firstapp.csproj.CoreCompileInputs.cache
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\firstapp.dll
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\refint\firstapp.dll
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\firstapp.pdb
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\firstapp.genruntimeconfig.cache
+D:\DoTNeT\dotnet\firstapp\obj\Debug\net7.0\ref\firstapp.dll
