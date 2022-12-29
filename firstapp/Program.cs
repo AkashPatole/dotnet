@@ -7,7 +7,7 @@ Account acc2=new Account("Prathamesh",99000,78565447);
 
 acc1.WithDraw(9000);
 Console.WriteLine("Amount After Withdraw is: "+acc1.Balance);
-
+//deposite
 acc1.Deposite(10000);
 Console.WriteLine("Amount Details Are: \n"+acc1.Name+"\n"+acc1.Balance+"\n"+acc1.MobileNO);
 
