@@ -1,0 +1,12 @@
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\HR.csproj.AssemblyReference.cache
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\HR.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\HR.AssemblyInfoInputs.cache
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\HR.AssemblyInfo.cs
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\HR.csproj.CoreCompileInputs.cache
+D:\DoTNeT\dotnet\secondday\HR\bin\Debug\net7.0\HR.deps.json
+D:\DoTNeT\dotnet\secondday\HR\bin\Debug\net7.0\HR.dll
+D:\DoTNeT\dotnet\secondday\HR\bin\Debug\net7.0\HR.pdb
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\HR.dll
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\refint\HR.dll
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\HR.pdb
+D:\DoTNeT\dotnet\secondday\HR\obj\Debug\net7.0\ref\HR.dll
