@@ -31,5 +31,6 @@ foreach (Shapes s in shape)
     obj.Print();
    
 }
-
-// shape1.Print();
+Console.WriteLine("-------------------------------");
+Rectangle rect=(Rectangle)shape1;
+rect.Print();
