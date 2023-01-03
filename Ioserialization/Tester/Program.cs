@@ -17,13 +17,9 @@ students.Add(s2);
 students.Add(s3);
 students.Add(s4);
 students.Add(s5);
+IOconnection.SerializationIo(students);
 //string jsonString = JsonSerializer.Serialize(employee);
  
-   
-
-// Console.WriteLine("json Student Length: "+jsonStudents.Count);
-
-
 bool exit=false;
 
            
