@@ -1,0 +1,12 @@
+D:\DoTNeT\dotnet\Ioserialization\Catalog\bin\Debug\net7.0\Catalog.deps.json
+D:\DoTNeT\dotnet\Ioserialization\Catalog\bin\Debug\net7.0\Catalog.dll
+D:\DoTNeT\dotnet\Ioserialization\Catalog\bin\Debug\net7.0\Catalog.pdb
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\Catalog.csproj.AssemblyReference.cache
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfoInputs.cache
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfo.cs
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\Catalog.csproj.CoreCompileInputs.cache
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\Catalog.dll
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\refint\Catalog.dll
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\Catalog.pdb
+D:\DoTNeT\dotnet\Ioserialization\Catalog\obj\Debug\net7.0\ref\Catalog.dll
