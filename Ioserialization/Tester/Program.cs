@@ -18,14 +18,10 @@ students.Add(s3);
 students.Add(s4);
 students.Add(s5);
 //string jsonString = JsonSerializer.Serialize(employee);
+ 
+   
 
-    var options=new JsonSerializerOptions {IncludeFields=true};
-var studentJson=JsonSerializer.Serialize<List<Student>>(students,options);
-string filename=@"D:\DoTNeT\dotnet\Ioserialization\student.json";
-File.WriteAllText(filename,studentJson);
-string jsonString=File.ReadAllText(filename);
-List<Student> jsonStudents=JsonSerializer.Deserialize<List<Student>>(jsonString);
-Console.WriteLine("json Student Length: "+jsonStudents.Count);
+// Console.WriteLine("json Student Length: "+jsonStudents.Count);
 
 
 bool exit=false;
@@ -48,9 +44,8 @@ bool exit=false;
         int mno=Convert.ToInt32(Console.ReadLine());
         Student s=new Student(sid,sname,smail,dob,pass,mno);
         students.Add(s);
-        var studentJson1=JsonSerializer.Serialize<List<Student>>(students,options);
-        File.WriteAllText(filename,studentJson1);
-        Console.WriteLine("Student Added Succesfully");
+        IOconnection.SerializationIo(students);
+
         break;
         case 2:
         Console.WriteLine("Enter Student Id ");
@@ -61,15 +56,18 @@ bool exit=false;
             {
               Console.WriteLine("Enter New MobileNo");
               students[i].MobileNo=Convert.ToInt32(Console.ReadLine());
+              IOconnection.SerializationIo(students);
               break;
             }
         }
         break;
         case 5:
         Console.WriteLine("________ALL DATA_______");
+        
+            List<Student> jsonStudents=IOconnection.DeserializeIo();
             foreach (Student a in jsonStudents)
             {
-                Console.WriteLine($"{a.StudentId} : ${a.Name} : ${a.Email} : ${a.Dob} : ${a.Password} : ${a.MobileNo}");
+                Console.WriteLine($"{a.StudentId} : {a.Name} : {a.Email} : {a.Dob} : {a.Password} : {a.MobileNo}");
             }
         break;
         case 6:

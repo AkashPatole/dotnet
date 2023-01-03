@@ -31,6 +31,11 @@ public class Student
         this.Password=pass;
         this.MobileNo=num;
     }
+    
+    public override string ToString()
+    {
+          return "StudentID: "+StudentId+" Name: "+Name+" Email: "+Email+" Dob: "+Dob+" Password: "+Password+" MobileNo: "+MobileNo;
+    }
 
 
 }
