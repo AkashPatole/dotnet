@@ -1,0 +1,15 @@
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.csproj.AssemblyReference.cache
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.AssemblyInfoInputs.cache
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.AssemblyInfo.cs
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.csproj.CoreCompileInputs.cache
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.exe
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.deps.json
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.runtimeconfig.json
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.dll
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.pdb
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.dll
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\refint\DelegateDemoApp.dll
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.pdb
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.genruntimeconfig.cache
+D:\DoTNeT\dotnet\DelegateDemo\DelegateDemoApp\obj\Debug\net7.0\ref\DelegateDemoApp.dll
