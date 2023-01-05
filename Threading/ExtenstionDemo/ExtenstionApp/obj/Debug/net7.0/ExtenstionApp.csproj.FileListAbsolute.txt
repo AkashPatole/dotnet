@@ -1,0 +1,15 @@
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ExtenstionApp.csproj.AssemblyReference.cache
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ExtenstionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ExtenstionApp.AssemblyInfoInputs.cache
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ExtenstionApp.AssemblyInfo.cs
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ExtenstionApp.csproj.CoreCompileInputs.cache
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\bin\Debug\net7.0\ExtenstionApp.exe
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\bin\Debug\net7.0\ExtenstionApp.deps.json
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\bin\Debug\net7.0\ExtenstionApp.runtimeconfig.json
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\bin\Debug\net7.0\ExtenstionApp.dll
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\bin\Debug\net7.0\ExtenstionApp.pdb
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ExtenstionApp.dll
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\refint\ExtenstionApp.dll
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ExtenstionApp.pdb
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ExtenstionApp.genruntimeconfig.cache
+D:\DoTNeT\dotnet\Threading\ExtenstionDemo\ExtenstionApp\obj\Debug\net7.0\ref\ExtenstionApp.dll

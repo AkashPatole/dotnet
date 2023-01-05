@@ -1,0 +1,15 @@
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.csproj.AssemblyReference.cache
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.AssemblyInfoInputs.cache
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.AssemblyInfo.cs
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.exe
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.deps.json
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.runtimeconfig.json
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.dll
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\bin\Debug\net7.0\ThreadingDemo.pdb
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.dll
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\refint\ThreadingDemo.dll
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.pdb
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ThreadingDemo.genruntimeconfig.cache
+D:\DoTNeT\dotnet\Threading\ThreadingDemo\obj\Debug\net7.0\ref\ThreadingDemo.dll

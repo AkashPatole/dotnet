@@ -1,0 +1,15 @@
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\CollectionApp.csproj.AssemblyReference.cache
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\CollectionApp.AssemblyInfoInputs.cache
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\CollectionApp.AssemblyInfo.cs
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\CollectionApp.csproj.CoreCompileInputs.cache
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\bin\Debug\net7.0\CollectionApp.exe
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\bin\Debug\net7.0\CollectionApp.deps.json
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\bin\Debug\net7.0\CollectionApp.runtimeconfig.json
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\bin\Debug\net7.0\CollectionApp.dll
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\bin\Debug\net7.0\CollectionApp.pdb
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\CollectionApp.dll
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\refint\CollectionApp.dll
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\CollectionApp.pdb
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\CollectionApp.genruntimeconfig.cache
+D:\DoTNeT\dotnet\Threading\CollectionDemo\CollectionApp\obj\Debug\net7.0\ref\CollectionApp.dll
