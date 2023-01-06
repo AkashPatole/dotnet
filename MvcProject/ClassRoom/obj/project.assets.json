@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Catalog/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Catalog.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Catalog.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Catalog/1.0.0": {
-      "type": "project",
-      "path": "../Catalog/Catalog.csproj",
-      "msbuildProject": "../Catalog/Catalog.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Catalog >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\AKASH\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj",
-      "projectName": "Tester",
-      "projectPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj",
+      "projectUniqueName": "D:\\DoTNeT\\dotnet\\MvcProject\\ClassRoom\\ClassRoom.csproj",
+      "projectName": "ClassRoom",
+      "projectPath": "D:\\DoTNeT\\dotnet\\MvcProject\\ClassRoom\\ClassRoom.csproj",
       "packagesPath": "C:\\Users\\AKASH\\.nuget\\packages\\",
-      "outputPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\obj\\",
+      "outputPath": "D:\\DoTNeT\\dotnet\\MvcProject\\ClassRoom\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AKASH\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj": {
-              "projectPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -78,6 +55,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

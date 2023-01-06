@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BjVezUPSY5QbXf4fHwQNTZYwMV5c6t83+iYnby7GrVaL1BbDbhnbcFBnW58vO50NXxiwTWk112nJQ1TYTRko1Q==",
+  "dgSpecHash": "yDKZHJJWcxMdFRfUwYfQhdCs2g7gJpGiJMFztP4tkfWvTmq3Dqy1IDL0UYDDDhXuS79LmdQ/D6PTCxQZR1Yj+Q==",
   "success": true,
-  "projectFilePath": "D:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj",
+  "projectFilePath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

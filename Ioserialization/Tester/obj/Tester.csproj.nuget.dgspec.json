@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj": {}
+    "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj": {}
   },
   "projects": {
-    "D:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj": {
+    "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "D:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj",
+        "projectPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\AKASH\\.nuget\\packages\\",
-        "outputPath": "D:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\obj\\",
+        "outputPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKASH\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj": {
+    "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj",
+        "projectUniqueName": "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj",
         "projectName": "Tester",
-        "projectPath": "D:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj",
+        "projectPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj",
         "packagesPath": "C:\\Users\\AKASH\\.nuget\\packages\\",
-        "outputPath": "D:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\obj\\",
+        "outputPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKASH\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj": {
-                "projectPath": "D:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj"
+              "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj": {
+                "projectPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj"
               }
             }
           }

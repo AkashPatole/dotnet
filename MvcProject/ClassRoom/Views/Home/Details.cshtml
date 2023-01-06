@@ -1,0 +1,20 @@
+   @using DataLayer.Models;
+   @using  Students.Models;
+   @model IEnumerable<Students.Models.Student>
+@{
+    ViewData["Title"] = "Details Page";   
+}
+<div>
+    @* @{
+     List<Student> std=DataStore.DeserializeIo();
+        <ol>
+        @foreach (Student item in std)
+        {
+            <li>
+            @item
+            </li>
+        }
+        </ol>
+    } *@
+    @Html.DisplayFor((model)=>modelItem.StudentId);
+  </div>

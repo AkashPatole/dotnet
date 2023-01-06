@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj": {}
+    "d:\\DoTNeT\\dotnet\\MvcProject\\ClassRoom\\ClassRoom.csproj": {}
   },
   "projects": {
-    "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj": {
+    "d:\\DoTNeT\\dotnet\\MvcProject\\ClassRoom\\ClassRoom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj",
-        "projectName": "Catalog",
-        "projectPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "d:\\DoTNeT\\dotnet\\MvcProject\\ClassRoom\\ClassRoom.csproj",
+        "projectName": "ClassRoom",
+        "projectPath": "d:\\DoTNeT\\dotnet\\MvcProject\\ClassRoom\\ClassRoom.csproj",
         "packagesPath": "C:\\Users\\AKASH\\.nuget\\packages\\",
-        "outputPath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Catalog\\obj\\",
+        "outputPath": "d:\\DoTNeT\\dotnet\\MvcProject\\ClassRoom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKASH\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,6 +49,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

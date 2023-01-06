@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t7ByAsibJJ6MJkc7cSXq5hHKNuK8rJ6mr/vEdO4r6LyfawF+gw4RMkSyOH96GydmHcDc/QZ7D4zlB4a+waVfyQ==",
+  "dgSpecHash": "S/Jym0aIjWY+wQ+CPFfWvi3huzD9b1H/la8GcWzcbxwvderSSCjpKohrbYpsTaL2mBFuIBlEOcoUb4kl2PVhjg==",
   "success": true,
-  "projectFilePath": "D:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj",
+  "projectFilePath": "d:\\DoTNeT\\dotnet\\Ioserialization\\Tester\\Tester.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
